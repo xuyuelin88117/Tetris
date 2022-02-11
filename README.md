@@ -7,11 +7,6 @@
 - 狂暴模式，纵享丝滑😍
 - 双人对战，重拳出击👊
 
-## bug反馈
-
-- 发送邮件到：[serendipityape@foxmail.com](mailto:serendipityape@foxmail.com)
-- [issues](https://github.com/serendipityApe/tetris/issues/new)
-
 ## 下载
 
 1. yarn install / npm install
